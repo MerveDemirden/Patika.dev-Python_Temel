@@ -1,3 +1,3 @@
 # Python_Temel
 
-###kkk
+Python programlamanın temel konularını özet biçiminde içermektedir.
